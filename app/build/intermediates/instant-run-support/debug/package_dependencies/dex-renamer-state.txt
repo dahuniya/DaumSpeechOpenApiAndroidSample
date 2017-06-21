@@ -1,0 +1,25 @@
+#Sun Jun 11 20:35:01 KST 2017
+renamed.7=classes2.dex
+renamed.6=classes.dex
+renamed.5=classes5.dex
+renamed.4=classes3.dex
+renamed.3=classes6.dex
+renamed.2=classes7.dex
+renamed.1=classes4.dex
+renamed.0=classes8.dex
+base.7=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_47532e0203a65584de26a582bfd809e0f3bdad8e
+base.6=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ff531cc60294b1bebf22ed1d719685d99409662
+base.5=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f74315bca3d53b20520bddcd5d21051a03480c22
+base.4=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b3659a45a92e4bee5322d08863c44ecb5cc506b3
+base.3=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\dialoid-apklib-1.0.0_0e0f38e5854275bd4847b05d08084b91d06edb8a
+base.2=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_e7269f1fa79b11756288b3b0a814aa3638f744f5
+base.1=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ce295f9052e47af105dc2560e014c34ece7f5a6e
+base.0=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_b7f846488387ba91cc257b5cc53209f04902da42
+file.7=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_47532e0203a65584de26a582bfd809e0f3bdad8e\\classes.dex
+file.6=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ff531cc60294b1bebf22ed1d719685d99409662\\classes.dex
+file.5=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f74315bca3d53b20520bddcd5d21051a03480c22\\classes.dex
+file.4=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b3659a45a92e4bee5322d08863c44ecb5cc506b3\\classes.dex
+file.3=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\dialoid-apklib-1.0.0_0e0f38e5854275bd4847b05d08084b91d06edb8a\\classes.dex
+file.2=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_e7269f1fa79b11756288b3b0a814aa3638f744f5\\classes.dex
+file.1=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ce295f9052e47af105dc2560e014c34ece7f5a6e\\classes.dex
+file.0=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_b7f846488387ba91cc257b5cc53209f04902da42\\classes.dex

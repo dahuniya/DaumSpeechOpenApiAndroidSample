@@ -1,0 +1,7 @@
+#Sun Jun 11 20:35:02 KST 2017
+base.0=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abbf0e2060dd7f5afa03b5b5bff12500afc629aa
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6cd7af5d106345a95778c4f8104d0251047e07f2\\classes.dex
+base.1=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6cd7af5d106345a95778c4f8104d0251047e07f2
+file.0=H\:\\AndroidStudioProjects\\DaumSpeechOpenApiAndroidSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abbf0e2060dd7f5afa03b5b5bff12500afc629aa\\classes.dex
